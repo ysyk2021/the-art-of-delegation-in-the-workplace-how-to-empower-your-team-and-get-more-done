@@ -1,5 +1,3 @@
-Historical Perspectives on Delegation Theory and Practice
-=================================================================================================================
 
 Delegation is not a new concept; it has been an essential aspect of leadership for centuries. In this chapter, we will explore the historical perspectives on delegation theory and practice.
 

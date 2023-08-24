@@ -1,5 +1,3 @@
-Best Practices for Developing Effective Delegation Skills and Strategies
-=================================================================================================================================================
 
 Delegating tasks to team members is an essential part of being a successful leader. In this book, we have discussed the importance of delegation in the workplace and provided practical strategies and techniques for mastering the art of delegation.
 

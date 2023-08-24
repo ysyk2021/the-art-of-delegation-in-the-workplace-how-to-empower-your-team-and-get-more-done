@@ -1,5 +1,3 @@
-Chapter 4: Selecting the Right People for Delegation
-====================================================
 
 Selecting the right people for delegation is critical to achieving success in the workplace. In this chapter, we will explore strategies for selecting the right people for delegation, how to identify team members' strengths and areas for development, and building trust and rapport with team members.
 

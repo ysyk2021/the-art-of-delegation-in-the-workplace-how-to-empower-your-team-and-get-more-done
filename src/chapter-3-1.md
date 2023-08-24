@@ -1,5 +1,3 @@
-Developing Strategies for Developing Effective Delegation Skills
-=========================================================================================================
 
 Effective delegation is a critical skill for managers, but it is not always easy to master. In this chapter, we will explore strategies for developing effective delegation skills.
 

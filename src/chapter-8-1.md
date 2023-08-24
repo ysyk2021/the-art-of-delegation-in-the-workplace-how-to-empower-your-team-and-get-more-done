@@ -1,5 +1,3 @@
-Understanding Common Delegation Challenges
-==============================================================================================
 
 Delegation can present a range of challenges in the workplace, from resistance to delegation to ineffective communication. In this chapter, we will explore common challenges of delegation and strategies for overcoming these challenges.
 

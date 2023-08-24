@@ -1,5 +1,3 @@
-Identifying Tasks That Can Be Delegated
-================================================================================
 
 Effective delegation starts with identifying the tasks that can be delegated. In this chapter, we will explore strategies for identifying tasks that can be delegated.
 

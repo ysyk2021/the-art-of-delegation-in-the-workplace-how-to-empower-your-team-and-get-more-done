@@ -1,5 +1,3 @@
-Building Resilience and Managing Stress During Times of Uncertainty
-=======================================================================================================================
 
 Delegation can present challenges during times of uncertainty, such as changes in leadership, budget cuts, and unexpected events. In this chapter, we will explore strategies for building resilience and managing stress during times of uncertainty.
 

@@ -1,5 +1,3 @@
-Defining Delegation and Its Importance in the Workplace
-===============================================================================================================
 
 Delegation is a critical leadership skill that can empower team members, promote the growth and development of employees, and improve overall productivity. In this chapter, we will define delegation and explore its importance in the workplace.
 

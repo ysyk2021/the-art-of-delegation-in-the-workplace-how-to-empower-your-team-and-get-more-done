@@ -1,5 +1,3 @@
-Developing Effective Communication Skills for Delegation
-============================================================================================================
 
 Effective communication is essential in delegation. It helps team members understand their responsibilities, receive necessary feedback, and feel recognized for their contributions. In this chapter, we will explore strategies for developing effective communication skills for delegation.
 

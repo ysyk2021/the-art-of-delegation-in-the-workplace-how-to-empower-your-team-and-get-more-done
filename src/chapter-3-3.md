@@ -1,5 +1,3 @@
-Setting Clear Expectations and Objectives
-==================================================================================
 
 Setting clear expectations and objectives is crucial to effective delegation practices in the workplace. In this chapter, we will explore strategies for setting clear expectations and objectives when delegating tasks.
 

@@ -1,5 +1,3 @@
-Encouraging Open Communication and Constructive Feedback
-============================================================================================================
 
 Effective communication is essential to successful delegation practices in the workplace. In this chapter, we will explore strategies for encouraging open communication and constructive feedback when delegating tasks.
 

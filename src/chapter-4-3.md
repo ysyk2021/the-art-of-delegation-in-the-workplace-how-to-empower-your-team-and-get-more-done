@@ -1,5 +1,3 @@
-Building Trust and Rapport with Team Members
-==================================================================================================
 
 Delegating tasks to the right people is crucial for success in any organization. Choosing the wrong person for a delegated task can lead to poor results, miscommunication, and frustration. Therefore, it's important to select the right team members for delegation.
 

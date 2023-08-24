@@ -1,5 +1,3 @@
-Chapter 8: Overcoming Common Delegation Challenges
-==================================================
 
 While delegation can be a powerful tool for empowering team members and achieving better results, it is not without its challenges. In this chapter, we will explore common delegation challenges and strategies for overcoming them.
 

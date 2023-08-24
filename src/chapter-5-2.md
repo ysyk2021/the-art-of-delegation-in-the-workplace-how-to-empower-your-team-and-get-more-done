@@ -1,5 +1,3 @@
-Offering Constructive Feedback and Recognition
-==================================================================================================
 
 Effective communication is critical in delegation to ensure team members understand their responsibilities, receive necessary feedback, and feel recognized for their contributions. In this chapter, we will explore strategies for offering constructive feedback and recognition in delegation.
 

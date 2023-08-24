@@ -1,5 +1,3 @@
-Chapter 2: Understanding the Psychology of Delegation
-=====================================================
 
 Understanding the psychology of delegation is important for managers to effectively delegate tasks and empower their team members. In this chapter, we will explore different factors that impact delegation effectiveness, common barriers to effective delegation, and the role of trust and communication in enhancing delegation.
 

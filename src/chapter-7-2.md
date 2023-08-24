@@ -1,5 +1,3 @@
-Encouraging Autonomy and Ownership
-============================================================================
 
 Effective delegation is not just about assigning tasks, but also about empowering team members to take ownership and make decisions. In this chapter, we will explore how to encourage autonomy and ownership through delegation.
 

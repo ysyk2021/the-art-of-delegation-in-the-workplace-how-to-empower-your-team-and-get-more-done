@@ -1,5 +1,3 @@
-Developing Strategies for Managing Resistance and Conflict
-==============================================================================================================
 
 Delegation can present various challenges, including resistance from team members and conflict. In this chapter, we will explore strategies for overcoming common delegation challenges.
 

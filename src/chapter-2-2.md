@@ -1,5 +1,3 @@
-Identifying Common Barriers to Effective Delegation
-==========================================================================================================
 
 Delegation is a critical skill for managers, but it can also be challenging. In this chapter, we will explore some of the common barriers to effective delegation.
 

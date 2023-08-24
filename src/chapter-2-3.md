@@ -1,5 +1,3 @@
-Understanding the Role of Trust and Communication in Enhancing Delegation
-================================================================================================================================
 
 Delegation is not just about assigning tasks, but also about understanding the psychological factors that can influence its success. In this chapter, we will explore the role of trust and communication in enhancing delegation.
 

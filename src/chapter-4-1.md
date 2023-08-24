@@ -1,5 +1,3 @@
-Developing Strategies for Selecting the Right People for Delegation
-=========================================================================================================================
 
 Selecting the right people for delegation is critical to the success of any team. In this chapter, we will explore strategies for selecting the right people for delegation and how to develop these strategies.
 

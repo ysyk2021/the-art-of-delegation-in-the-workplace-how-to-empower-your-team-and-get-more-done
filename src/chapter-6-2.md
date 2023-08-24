@@ -1,5 +1,3 @@
-Using Data and Metrics to Track Progress and Success
-=====================================================================================================
 
 Monitoring and evaluating delegation is critical to ensure team members are on track, tasks are completed timely, and progress is made towards achieving goals. In this chapter, we will explore strategies for using data and metrics to monitor and evaluate delegation.
 

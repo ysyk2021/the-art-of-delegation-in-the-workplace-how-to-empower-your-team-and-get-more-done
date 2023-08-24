@@ -1,5 +1,3 @@
-Chapter 3: Developing Delegation Skills
-=======================================
 
 Developing effective delegation skills is critical for managers to achieve better results and empower their team members. In this chapter, we will explore strategies for developing effective delegation skills, identifying tasks that can be delegated, and setting clear expectations and objectives.
 

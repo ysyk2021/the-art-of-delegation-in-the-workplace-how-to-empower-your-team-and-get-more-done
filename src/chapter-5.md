@@ -1,5 +1,3 @@
-Chapter 5: Communicating Effectively in Delegation
-==================================================
 
 Effective communication is essential for successful delegation. In this chapter, we will explore how managers can develop effective communication skills and use them to offer constructive feedback and recognition.
 

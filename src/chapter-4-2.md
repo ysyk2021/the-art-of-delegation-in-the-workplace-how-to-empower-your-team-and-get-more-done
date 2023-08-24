@@ -1,5 +1,3 @@
-Identifying Team Members' Strengths and Areas for Development
-===================================================================================================================
 
 Delegating tasks to team members is an essential part of being a successful leader. However, choosing the right people to delegate tasks to can be challenging. In this chapter, we will discuss how to identify team members' strengths and areas for development to select the right people for delegation.
 
