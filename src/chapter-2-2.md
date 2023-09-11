@@ -1,5 +1,4 @@
-Chapter: Identifying Common Barriers to Effective Delegation
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore common barriers that can hinder effective delegation in the workplace. Recognizing and understanding these barriers is crucial for leaders aiming to optimize their delegation practices and empower their teams. By proactively identifying and addressing these obstacles, leaders can overcome challenges and create a conducive environment for successful delegation.
 

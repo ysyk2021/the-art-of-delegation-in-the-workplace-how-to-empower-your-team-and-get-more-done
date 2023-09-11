@@ -1,5 +1,4 @@
-Chapter: Encouraging Autonomy and Ownership
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the importance of encouraging autonomy and ownership as key elements of effective delegation. Empowering team members to make decisions, take initiative, and take ownership of their work promotes engagement, fosters creativity, and enhances productivity. By mastering the art of encouraging autonomy and ownership, leaders can unlock the full potential of their teams and achieve exceptional results.
 

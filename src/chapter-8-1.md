@@ -1,5 +1,4 @@
-Chapter: Understanding Common Delegation Challenges
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common challenges that leaders and team members may face when practicing delegation in the workplace. Delegation is a powerful tool for empowering teams and increasing productivity, but it is not without its obstacles. By understanding these challenges, leaders can proactively address them and ensure successful delegation outcomes.
 

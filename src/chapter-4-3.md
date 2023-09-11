@@ -1,5 +1,4 @@
-Chapter: Building Trust and Rapport with Team Members
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significance of building trust and rapport with team members in the context of effective delegation and achieving productivity in the workplace. A foundation of trust and positive relationships fosters collaboration, enhances communication, and empowers teams to perform at their best. By investing in building trust and rapport, leaders can create a supportive environment that encourages engagement, growth, and success.
 

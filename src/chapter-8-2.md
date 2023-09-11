@@ -1,5 +1,4 @@
-Chapter: Developing Strategies for Managing Resistance and Conflict
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies for effectively managing resistance and conflict when delegating tasks. Delegation, while beneficial, can sometimes be met with resistance or result in conflicts within the workplace. By developing strategies to address these challenges proactively, leaders can maintain a positive work environment, foster collaboration, and ensure successful delegation outcomes.
 

@@ -1,5 +1,4 @@
-Chapter: Identifying Tasks That Can Be Delegated
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of identifying tasks that can be delegated effectively. Delegation is a valuable skill that enables leaders to distribute workload, empower team members, and maximize productivity. By mastering the art of identifying tasks for delegation, leaders can focus on high-priority responsibilities, develop their team's skills, and achieve remarkable outcomes in the workplace.
 

@@ -1,5 +1,4 @@
-Chapter: Developing Effective Communication Skills for Delegation
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significance of developing effective communication skills for successful delegation. Clear and concise communication is essential for conveying expectations, sharing information, and building strong relationships with team members. By mastering the art of effective communication, leaders can streamline the delegation process, foster understanding, and empower their teams to achieve exceptional outcomes.
 

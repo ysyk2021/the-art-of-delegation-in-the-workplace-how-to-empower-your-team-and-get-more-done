@@ -1,5 +1,4 @@
-Chapter: Building Resilience and Managing Stress During Times of Uncertainty
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies for building resilience and effectively managing stress during times of uncertainty in the workplace. Delegation is a powerful tool for empowering teams, but it can also be challenging when faced with uncertain circumstances. By developing resilience and stress management techniques, leaders can navigate through uncertainty and support their team members in maintaining productivity and well-being.
 

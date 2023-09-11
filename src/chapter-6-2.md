@@ -1,5 +1,4 @@
-Chapter: Using Data and Metrics to Track Progress and Success
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of using data and metrics to track progress and measure success in the context of delegation in the workplace. By leveraging data-driven insights and key performance indicators (KPIs), leaders can effectively monitor the delegation process, empower their teams, and achieve higher levels of productivity and success.
 

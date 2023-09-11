@@ -1,5 +1,4 @@
-Chapter: Offering Constructive Feedback and Recognition
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of offering constructive feedback and recognition as essential components of effective delegation. Constructive feedback helps team members grow and improve, while recognition acknowledges their valuable contributions and fosters a positive work environment. By mastering the art of providing constructive feedback and recognition, leaders can empower their teams, enhance performance, and create a culture of continuous improvement.
 

@@ -1,5 +1,4 @@
-Chapter: Encouraging Open Communication and Constructive Feedback
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the importance of fostering open communication and providing constructive feedback in the context of effective delegation. Encouraging team members to freely express their thoughts, concerns, and ideas, while also providing them with meaningful feedback, creates an environment of trust, collaboration, and continuous improvement. By mastering the art of open communication and constructive feedback, leaders can enhance delegation effectiveness and empower their teams to achieve exceptional results.
 
